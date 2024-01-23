@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CardGame</string>
+    <string name="choose_your_card">Choose your card</string>
+    <string name="card">card</string>
+    <string name="card_title">Card #%1$d</string>
+    <string name="guess">You are guess</string>
+    <string name="try_again">Try again</string>
+    <string name="winning">You are the winner</string>
+
+</resources>
